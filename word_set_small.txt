@@ -1,0 +1,7 @@
+yellow
+white
+bear
+dog
+is
+cute
+ugly
